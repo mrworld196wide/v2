@@ -1,12 +1,12 @@
 ---
-title: 'Hello World! My name is'
-name: 'Chandrika Deb'
-subtitle: 'I love exploring new things!'
+title: ''
+name: 'Aishwar Pathak'
+subtitle: 'Developer | ML Enthusiast'
 buttonText: 'Contact Me'
 ---
 
 I'm an India based software developer with a goal-driven creative mindset and passion for learning and innovating.
 
-Currently working as a Software Developer at [Amdocs](https://www.amdocs.com/) and as a Freelance Content Writer for [Pepper Content](https://www.peppercontent.io).
+I love building things for the web.
 
-Outside work, I occasionally blog on [Medium](https://chandrikadeb7.medium.com/). Off-screen, I sketch my thoughts [here](https://pin.it/4W1Rxtj)!
+Outside work, I occasionally blog on [Medium](https://medium.com/@apkc4545). Off-screen, I sketch my thoughts [here](https://pin.it/4W1Rxtj)!
