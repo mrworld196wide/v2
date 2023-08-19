@@ -1,9 +1,9 @@
 module.exports = {
   siteTitle: 'Aishwar Pathak | Software Developer | ML Enthusiast',
   siteDescription:
-    'Chandrika Deb is a Software Developer at Amdocs, who loves learning new things and helping tech beginners.',
+    'Aishwar Pathak is an aspiring Software Developer , who loves learning new things and helping tech beginners.',
   siteKeywords:
-    'Chandrika Deb, Chandrika, Deb, chandrikadeb7, software developer, software engineer, content freelancer, face mask, face mask detection, web developer, java developer, pepper content, jamshedpur, amdocs, bit, mesra',
+    'Aishwar Pathak, Aishwar, Pathak, mrworld196wide, software developer, software engineer, Fullstack , MERN, mongo, web developer, express, React , mathura, NIIT University, NIIT, neemrana, Nodejs, Node',
   siteUrl: 'https://mrworld196wide.github.io/',
   siteLanguage: 'en_US',
   googleAnalyticsID: 'UA-45666519-2',
@@ -20,11 +20,7 @@ module.exports = {
     },
     {
       name: 'Linkedin',
-      url: 'www.linkedin.com/in/aishwarpathak',
-    },
-    {
-      name: 'Codepen',
-      url: 'https://codepen.io/chandrikadeb7',
+      url: 'https://www.linkedin.com/in/aishwarpathak',
     },
     {
       name: 'Instagram',
