@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://mrworld196wide.github.io/sitemap/sitemap-index.xml
+Host: https://mrworld196wide.github.io
